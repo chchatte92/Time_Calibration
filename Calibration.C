@@ -3,5 +3,5 @@
 
 void Calibration(){
 Init();
-
+AmplitudeCorrection();
 }
